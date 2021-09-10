@@ -1,0 +1,33 @@
+{
+  "token": "ODQ0MjIxMTEyNzk5NTkyNDY4.YKPQLg.GCbS30bkwxO7FYTXcElm0LZYedw",
+  "prefix": [".","!","a!","s!"],
+  "guildID": "853341587107217419",
+  "mongoUrl": "mongodb+srv://phentoss:Hg88sfi.@cluster0.rkepp.mongodb.net/secbot?retryWrites=true&w=majority",
+  "owners": ["815254561249427468","311517508601380865","780497912940986419"],
+  "botSes": "861240979666370600",
+  "botDurum": "Aris 🖤 Mes",
+  "registerPerm": "861216475368390676",
+
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+
+  "messageCount": 1,
+  "messageCoin": 0.25,
+  "voiceCount": 1,
+  "voiceCoin": 0.25,
+  "publicCoin": 1,
+  "inviteCount": 1,
+  "inviteCoin": 1,
+  "taggedCoin": 5,
+  "toplamsCoin": 2,
+  "yetkiCoin": 5,
+
+  "banlimit": 3,
+  "jaillimit": 3,
+  "warnlimit": 3,
+  "chatmutelimit": 1,
+  "voicemutelimit": 3
+}
