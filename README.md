@@ -1,1 +1,1 @@
-# aris-t-mbotlar
+# aris-mainbot
